@@ -17,7 +17,7 @@ vagrant up
 
 - Скриншоты:
 Меню загрузки:
-![alt text](/screenshots/hw19-1.PNG?raw=true "Screenshot1")
+![alt text](/screenshots/hw19-1.png?raw=true "Screenshot2")
 
 Установка ОС CentOS-8.4:
 ![alt text](/screenshots/hw19-2.PNG?raw=true "Screenshot2")
